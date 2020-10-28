@@ -1,0 +1,36 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.3.2,<3.3.3.0a0",
+    "pyqt"
+  ],
+  "extracted_package_dir": "/home/cabralh/anaconda3/pkgs/matplotlib-3.3.2-0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.3.2-0.conda",
+  "legacy_bz2_md5": "8b1a1a0b3f383e49396808b727b0a1d2",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/home/cabralh/anaconda3/pkgs/matplotlib-3.3.2-0",
+    "type": 1
+  },
+  "md5": "8183aaffaefb83324c3cc942cf675b2e",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/home/cabralh/anaconda3/pkgs/matplotlib-3.3.2-0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "a5a1f21af6ec0d9b3795623a4ab200bea52dba6aa6b4fddcd04daed7139de298",
+  "size": 24956,
+  "subdir": "linux-64",
+  "timestamp": 1603378389600,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/matplotlib-3.3.2-0.conda",
+  "version": "3.3.2"
+}
