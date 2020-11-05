@@ -4,6 +4,7 @@ Predict the winner of the World Series in Major League Baseball using data from 
 ### Table of contents
 TBA
 
+### Description
 This document tracks the progress of the project and gives an overview what how the prediction algorithm came into fruition. It uses Lahman's Baseball Database as the source dataset.
 
 The World Series in Baseball marks the end of the season. Two teams, one from the American and National League battle it out in a best of seven series. First to four games takes the win. 
